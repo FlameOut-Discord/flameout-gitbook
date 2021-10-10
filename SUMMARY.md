@@ -4,6 +4,7 @@
 
 ## Команды
 
+* [Page 1](komandy/page-1.md)
 * [Вызов команд](komandy/vyzov-komand.md)
 * [Slash-команды](komandy/slash-komandy.md)
 * [Аргументы к командам](komandy/argumenty-k-komandam.md)
@@ -14,6 +15,7 @@
 
 ## Другое
 
+* [Page 1](drugoe/page-1.md)
 * [Создание демотиваторов](drugoe/sozdanie-demotivatorov.md)
 * [Ежедневный бонус](drugoe/ezhednevnyi-bonus.md)
 * [FAQ](drugoe/faq.md)
