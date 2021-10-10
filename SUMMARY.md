@@ -13,6 +13,11 @@
 * [Перевод бота](https://github.com/FlameOut-Discord/flameout-translate)
 * [Поддержка](https://discord.gg/EJc8UC7yhZ)
 
+***
+
+* [Page 1](page-1.md)
+* [Page 1](page-1-1.md)
+
 ## Другое
 
 * [Page 1](drugoe/page-1.md)
