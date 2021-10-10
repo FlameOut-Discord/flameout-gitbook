@@ -9,7 +9,7 @@
 * [Аргументы к командам](komandy/argumenty-k-komandam.md)
 * [Копирование ID](komandy/kopirovanie-id.md)
 * [Профиль на сайте](https://flameout.gq/profile)
-* [Перевод бота](https://github.com/Nubovik01/flameout-translate)
+* [😄 Перевод бота](https://github.com/Nubovik01/flameout-translate)
 * [Поддержка](https://discord.gg/EJc8UC7yhZ)
 
 ## Другое
