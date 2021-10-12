@@ -5,8 +5,8 @@
 ## Команды
 
 * [Вызов команд](komandy/vyzov-komand.md)
-* [Slash-команды](komandy/slash-komandy.md)
 * [Аргументы к командам](komandy/argumenty-k-komandam.md)
+* [Slash-команды](komandy/slash-komandy.md)
 * [Копирование ID](komandy/kopirovanie-id.md)
 * [Профиль на сайте](https://flameout.gq/profile)
 * [Перевод бота](https://github.com/FlameOut-Discord/flameout-translate)
