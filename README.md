@@ -24,8 +24,6 @@ description: >-
 :open_file_folder: **Разное**: Вы можете прямо в дискорде смотреть сколько осталось до нового года, погоду, статистику COVID-19 и Wikipedia.\
 :gear: **Настройки**: Настройте язык и префикс под себя!
 
-{% embed url="https://flameout-discord.github.io/flameout-commands" %}
-
 ## Добавление на сервер
 
 1\) [Пригласите бота, кликнув по этому тексту.](https://top.gg/bot/747431086816100402/invite)\
