@@ -8,7 +8,7 @@
 
 Slash-команда с обязательными аргументами выглядит так:
 
-![](<../.gitbook/assets/image (201) (1).png>)
+![](<../.gitbook/assets/image (202).png>)
 
 ## Ошибки
 
