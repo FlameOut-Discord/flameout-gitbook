@@ -25,4 +25,4 @@ description: >-
 P.S: Моя вина была, я в команде **`f!help`** поставил две **`_`** :D\
 \- Nubovik
 
-![](<../.gitbook/assets/image (202) (1).png>)
+![](<../.gitbook/assets/image (202) (1) (1).png>)

@@ -16,10 +16,7 @@
 
 * [Ежедневный бонус](drugoe/ezhednevnyi-bonus.md)
 * [Значки в профиле](drugoe/znachki-v-profile.md)
+* [Создание демотиваторов](drugoe/sozdanie-demotivatorov.md)
 * [FAQ](drugoe/faq.md)
 * [Edit on GitHub](https://github.com/FlameOut-Discord/flameout-gitbook)
-* [Создание демотиваторов](drugoe/sozdanie-demotivatorov.md)
-
-***
-
-* [Page 1](page-1.md)
+* [API](drugoe/api.md)
