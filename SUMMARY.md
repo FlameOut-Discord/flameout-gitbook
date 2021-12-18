@@ -14,8 +14,12 @@
 
 ## Другое
 
-* [Создание демотиваторов](drugoe/sozdanie-demotivatorov.md)
 * [Ежедневный бонус](drugoe/ezhednevnyi-bonus.md)
 * [Значки в профиле](drugoe/znachki-v-profile.md)
 * [FAQ](drugoe/faq.md)
 * [Edit on GitHub](https://github.com/FlameOut-Discord/flameout-gitbook)
+* [Создание демотиваторов](drugoe/sozdanie-demotivatorov.md)
+
+***
+
+* [Page 1](page-1.md)
