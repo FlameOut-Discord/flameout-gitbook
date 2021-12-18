@@ -170,7 +170,7 @@ description: API на данный момент доступен только р
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="/user/premium/set/{id}?token={token}" baseUrl="https://api.flameout.gq/api" summary="Выдать Premium пользователю" %}
+{% swagger method="post" path="/user/premium/set/{id}?token={token}" baseUrl="https://api.flameout.gq/api" summary="Выдать Premium пользователю" %}
 {% swagger-description %}
 Выдать FlameOut Premium пользователю в БД
 {% endswagger-description %}
@@ -237,7 +237,7 @@ description: API на данный момент доступен только р
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="/user/premium/remove/{id}?token={token}" baseUrl="https://api.flameout.gq/api" summary="Забрать Premium у пользователя" %}
+{% swagger method="post" path="/user/premium/remove/{id}?token={token}" baseUrl="https://api.flameout.gq/api" summary="Забрать Premium у пользователя" %}
 {% swagger-description %}
 Забрать FlameOut Premium у пользователя в БД
 {% endswagger-description %}
