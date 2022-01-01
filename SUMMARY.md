@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Главная](README.md)
+* [📌 Главная](README.md)
 
 ## Команды
 
@@ -14,9 +14,8 @@
 
 ## Другое
 
+* [Создание демотиваторов](drugoe/sozdanie-demotivatorov.md)
 * [Ежедневный бонус](drugoe/ezhednevnyi-bonus.md)
 * [Значки в профиле](drugoe/znachki-v-profile.md)
-* [Создание демотиваторов](drugoe/sozdanie-demotivatorov.md)
 * [FAQ](drugoe/faq.md)
-* [Edit on GitHub](https://github.com/FlameOut-Discord/flameout-gitbook)
 * [API](drugoe/api.md)
