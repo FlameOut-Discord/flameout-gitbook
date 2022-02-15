@@ -6,7 +6,7 @@ description: API на данный момент доступен только р
 
 Пока что api.flameout.gq недоступен, используйте другое.
 
-{% swagger method="get" path="/bot/stats/?token={token}" baseUrl="https://api.flameout.gq/api" summary="Получение статистики бота" %}
+{% swagger method="get" path="/bot/stats/?token=$token" baseUrl="https://api.flameout.gq/api" summary="Получение статистики бота" %}
 {% swagger-description %}
 Получение статистика бота из кэша и БД. Вкратце: получение количества серверов и пользователей из БД, количества эмодзи и каналов из кэша, время ответа БД и количество использований команд (т.е. сколько раз командами бота воспользовались). 
 {% endswagger-description %}
@@ -53,7 +53,7 @@ description: API на данный момент доступен только р
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="/user/{id}/?token={token}" baseUrl="https://api.flameout.gq/api" summary="Профиль пользователя" %}
+{% swagger method="get" path="/user/$id/?token=$token" baseUrl="https://api.flameout.gq/api" summary="Профиль пользователя" %}
 {% swagger-description %}
 Получение профиля пользователя из БД
 {% endswagger-description %}
@@ -170,7 +170,7 @@ description: API на данный момент доступен только р
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="post" path="/user/premium/set/{id}?token={token}" baseUrl="https://api.flameout.gq/api" summary="Выдать Premium пользователю" %}
+{% swagger method="post" path="/user/premium/set/$id?token=$token" baseUrl="https://api.flameout.gq/api" summary="Выдать Premium пользователю" %}
 {% swagger-description %}
 Выдать FlameOut Premium пользователю в БД
 {% endswagger-description %}
@@ -237,7 +237,7 @@ description: API на данный момент доступен только р
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="post" path="/user/premium/remove/{id}?token={token}" baseUrl="https://api.flameout.gq/api" summary="Забрать Premium у пользователя" %}
+{% swagger method="post" path="/user/premium/remove/$id?token=$token" baseUrl="https://api.flameout.gq/api" summary="Забрать Premium у пользователя" %}
 {% swagger-description %}
 Забрать FlameOut Premium у пользователя в БД
 {% endswagger-description %}
@@ -304,7 +304,7 @@ description: API на данный момент доступен только р
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="/server/{id}/?token={token}" baseUrl="https://api.flameout.gq/api" summary="Профиль сервера" %}
+{% swagger method="get" path="/server/$id/?token=$token" baseUrl="https://api.flameout.gq/api" summary="Профиль сервера" %}
 {% swagger-description %}
 Получение профиля сервера из БД
 {% endswagger-description %}
