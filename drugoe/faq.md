@@ -1,6 +1,6 @@
 ---
 description: Ответы на часто задаваемые вопросы.
-layout: editorial
+layout: landing
 ---
 
 # Часто задаваемые вопросы
