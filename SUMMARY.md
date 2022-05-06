@@ -19,3 +19,4 @@
 * [Ежедневный бонус](drugoe/ezhednevnyi-bonus.md)
 * [Значки в профиле](drugoe/znachki-v-profile.md)
 * [Часто задаваемые вопросы](drugoe/faq.md)
+* [Словарь сленга и терминов](drugoe/slovar-slenga-i-terminov.md)
