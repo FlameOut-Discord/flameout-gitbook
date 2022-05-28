@@ -9,21 +9,25 @@
 * [Интеракции](komandy/slash-komandy.md)
 * [Копирование ID](komandy/kopirovanie-id.md)
 
+## Информация <a href="#info" id="info"></a>
+
+* [Ежедневный бонус](info/ezhednevnyi-bonus.md)
+* [Значки в профиле](info/znachki-v-profile.md)
+* [Создание демотиваторов](info/sozdanie-demotivatorov.md)
+* [Шахтёрская таблица](info/shakhtyorskaya-tablica.md)
+* [Telegram-канал](https://t.me/flameoutupdates)
+* [Команды FlameOut](https://clck.ru/ahvWW)
+
 ## Другое
 
-* [Создание демотиваторов](drugoe/sozdanie-demotivatorov.md)
-* [Ежедневный бонус](drugoe/ezhednevnyi-bonus.md)
-* [Значки в профиле](drugoe/znachki-v-profile.md)
 * [Часто задаваемые вопросы](drugoe/faq.md)
 * [Словарь сленга и терминов](drugoe/slovar-slenga-i-terminov.md)
+* [Пригласить бота](https://clck.ru/guxEi)
+* [Калькулятор грабежа](https://clck.ru/guwyU)
 
 ## Ссылки <a href="#links" id="links"></a>
 
-* [Калькулятор грабежа](https://clck.ru/guwyU)
-* [Команды FlameOut](https://clck.ru/ahvWW)
-* [Telegram-канал](https://t.me/flameoutupdates)
 * [Изменить GitBook](https://clck.ru/guxs5)
-* [Пригласить бота](https://clck.ru/guxEi)
-* [Перевод FlameOut](https://clck.ru/guxrW)
 * [/r/flameout](https://reddit.com/r/flameout)
+* [Перевод FlameOut](https://clck.ru/guxrW)
 * [Группа VK](https://vk.com/flameoutupdates)

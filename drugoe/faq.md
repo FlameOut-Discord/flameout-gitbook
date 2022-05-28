@@ -13,8 +13,8 @@ layout: landing
 
 Есть, например команда **`f!event`** или в канале **#конкурсы** на нашем Discord-сервере. Следить за новыми ивентами можно как в канале **#обновления-бота** так и во вкладке **`мероприятия`** на нашем сервере, и Telegram-канале. А так же подарки можно получить за голосование, подробнее:
 
-{% content-ref url="ezhednevnyi-bonus.md" %}
-[ezhednevnyi-bonus.md](ezhednevnyi-bonus.md)
+{% content-ref url="../info/ezhednevnyi-bonus.md" %}
+[ezhednevnyi-bonus.md](../info/ezhednevnyi-bonus.md)
 {% endcontent-ref %}
 
 {% embed url="https://t.me/flameoutupdates" %}
@@ -45,8 +45,8 @@ layout: landing
 
 ## Как получить Z значок и что значит Z значок?
 
-{% content-ref url="znachki-v-profile.md" %}
-[znachki-v-profile.md](znachki-v-profile.md)
+{% content-ref url="../info/znachki-v-profile.md" %}
+[znachki-v-profile.md](../info/znachki-v-profile.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -61,8 +61,8 @@ layout: landing
 
 Вам нужно проголосовать за бота более 25 раз на top.gg. Подробнее про голосование:
 
-{% content-ref url="ezhednevnyi-bonus.md" %}
-[ezhednevnyi-bonus.md](ezhednevnyi-bonus.md)
+{% content-ref url="../info/ezhednevnyi-bonus.md" %}
+[ezhednevnyi-bonus.md](../info/ezhednevnyi-bonus.md)
 {% endcontent-ref %}
 
 ## Почему музыка была удалена из бота?
@@ -83,8 +83,8 @@ layout: landing
 
 ## Как создавать демотиваторы?
 
-{% content-ref url="sozdanie-demotivatorov.md" %}
-[sozdanie-demotivatorov.md](sozdanie-demotivatorov.md)
+{% content-ref url="../info/sozdanie-demotivatorov.md" %}
+[sozdanie-demotivatorov.md](../info/sozdanie-demotivatorov.md)
 {% endcontent-ref %}
 
 ## Можно ли выключить slash-команды на сервере?
