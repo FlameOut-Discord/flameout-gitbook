@@ -14,9 +14,13 @@
 * [Ежедневный бонус](info/ezhednevnyi-bonus.md)
 * [Значки в профиле](info/znachki-v-profile.md)
 * [Создание демотиваторов](info/sozdanie-demotivatorov.md)
-* [Шахтёрская таблица](info/shakhtyorskaya-tablica.md)
 * [Telegram-канал](https://t.me/flameoutupdates)
 * [Команды FlameOut](https://clck.ru/ahvWW)
+
+## Экономика <a href="#economy" id="economy"></a>
+
+* [Шахтёрская таблица](economy/shakhtyorskaya-tablica.md)
+* [Способы заработка монет](economy/sposoby-zarabotka-monet.md)
 
 ## Другое
 
