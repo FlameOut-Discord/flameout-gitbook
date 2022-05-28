@@ -19,7 +19,7 @@
 
 ## Экономика <a href="#economy" id="economy"></a>
 
-* [Шахтёрская таблица](economy/shakhtyorskaya-tablica.md)
+* [Шахтёрская таблица](info/shakhtyorskaya-tablica.md)
 * [Способы заработка монет](economy/sposoby-zarabotka-monet.md)
 
 ## Другое
