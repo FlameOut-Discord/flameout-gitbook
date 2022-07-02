@@ -79,7 +79,7 @@ layout: landing
 
 Также есть шанс что из бокса ничего не выпадет.
 
-![](<../.gitbook/assets/image (200).png>)
+![](<../.gitbook/assets/image (184).png>)
 
 ## Как создавать демотиваторы?
 

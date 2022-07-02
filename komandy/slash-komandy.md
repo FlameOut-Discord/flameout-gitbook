@@ -12,7 +12,7 @@ description: Slash-команды, кнопки, менюшки и т.д.
 
 Slash-команда с обязательными аргументами выглядит так:
 
-![](<../.gitbook/assets/image (207).png>)
+![](<../.gitbook/assets/image (206).png>)
 
 ## Ошибки
 
