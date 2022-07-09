@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📌 Главная](README.md)
+* [📢 Список изменений](upd.md)
 
 ## Команды
 
@@ -25,13 +26,12 @@
 ## Другое
 
 * [Часто задаваемые вопросы](drugoe/faq.md)
-* [Словарь сленга и терминов](drugoe/slovar-slenga-i-terminov.md)
 * [Пригласить бота](https://clck.ru/guxEi)
 * [Калькулятор грабежа](https://clck.ru/guwyU)
 
 ## Ссылки <a href="#links" id="links"></a>
 
 * [Изменить GitBook](https://clck.ru/guxs5)
+* [Группа VK](https://vk.com/flameoutupdates)
 * [/r/flameout](https://reddit.com/r/flameout)
 * [Перевод FlameOut](https://clck.ru/guxrW)
-* [Группа VK](https://vk.com/flameoutupdates)
