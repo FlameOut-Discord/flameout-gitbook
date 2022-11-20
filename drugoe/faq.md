@@ -13,8 +13,8 @@ layout: landing
 [ezhednevnyi-bonus.md](../info/ezhednevnyi-bonus.md)
 {% endcontent-ref %}
 
-{% content-ref url="../info/kalendar-iventov.md" %}
-[kalendar-iventov.md](../info/kalendar-iventov.md)
+{% content-ref url="../info/calendar-of-events.md" %}
+[calendar-of-events.md](../info/calendar-of-events.md)
 {% endcontent-ref %}
 
 {% embed url="https://t.me/flameoutupdates" %}
