@@ -12,6 +12,7 @@
 
 ## Информация <a href="#info" id="info"></a>
 
+* [Календарь ивентов](info/kalendar-iventov.md)
 * [Ежедневный бонус](info/ezhednevnyi-bonus.md)
 * [Значки в профиле](info/znachki-v-profile.md)
 * [Создание демотиваторов](info/sozdanie-demotivatorov.md)
