@@ -7,17 +7,21 @@ layout: landing
 
 ## Есть способы получить подарки или боксы бесплатно?
 
-Есть, например команда **`f!event`** или в канале **#конкурсы** на нашем Discord-сервере. Следить за новыми ивентами можно как в канале **#обновления-бота** так и во вкладке **`мероприятия`** на нашем сервере, и Telegram-канале. А так же подарки можно получить за голосование, подробнее:
+Есть, например команда **`f!event`** или в канале **#конкурсы** на нашем Discord-сервере. Следить за новыми ивентами можно как в канале **#обновления-бота**, так и во вкладке **`мероприятия`** на нашем сервере, и Telegram-канале.
 
 {% content-ref url="../info/ezhednevnyi-bonus.md" %}
 [ezhednevnyi-bonus.md](../info/ezhednevnyi-bonus.md)
+{% endcontent-ref %}
+
+{% content-ref url="../info/kalendar-iventov.md" %}
+[kalendar-iventov.md](../info/kalendar-iventov.md)
 {% endcontent-ref %}
 
 {% embed url="https://t.me/flameoutupdates" %}
 
 ## Есть способ узнать сколько примерно получится украсть монет у пользователя при удачном ограблении?
 
-Есть, недавно мы создали калькулятор грабежа.
+Конечно
 
 {% embed url="https://flameout-discord.github.io/robbing-calculator" %}
 
