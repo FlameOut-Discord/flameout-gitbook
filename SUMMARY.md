@@ -24,15 +24,12 @@
 * [Шахтёрская таблица](info/shakhtyorskaya-tablica.md)
 * [Способы заработка монет](economy/sposoby-zarabotka-monet.md)
 
-## Другое
+## Другое <a href="#other" id="other"></a>
 
-* [Часто задаваемые вопросы](drugoe/faq.md)
+* [Часто задаваемые вопросы](other/faq.md)
 * [Пригласить бота](https://clck.ru/guxEi)
 * [Калькулятор грабежа](https://clck.ru/guwyU)
+* [Изменить GitBook](https://clck.ru/guxs5)
+* [/r/flameout](https://reddit.com/r/flameout)
 
 ## Ссылки <a href="#links" id="links"></a>
-
-* [Изменить GitBook](https://clck.ru/guxs5)
-* [Группа VK](https://vk.com/flameoutupdates)
-* [/r/flameout](https://reddit.com/r/flameout)
-* [Перевод FlameOut](https://clck.ru/guxrW)
