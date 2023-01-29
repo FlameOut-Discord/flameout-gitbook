@@ -27,6 +27,7 @@
 ## Другое <a href="#other" id="other"></a>
 
 * [Часто задаваемые вопросы](other/faq.md)
+* [Фразы в конце пикч](other/frazy-v-konce-pikch.md)
 * [Пригласить бота](https://clck.ru/guxEi)
 * [Калькулятор грабежа](https://clck.ru/guwyU)
 * [Изменить GitBook](https://clck.ru/guxs5)
