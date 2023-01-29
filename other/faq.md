@@ -87,7 +87,7 @@ _Система была добавлена недавно в бота и мож
 
 {% embed url="https://flame.nbvk.ml/#invite" %}
 
-## Что значит ЗБТ?[https://flame.nbvk.ml/#dobavlenie-na-server](https://flame.nbvk.ml/#dobavlenie-na-server)
+## Что значит ЗБТ?
 
 ЗБТ - Закрытый Бета Тест. ЗБТ сервер в Discord доступен только имеющим FlameOut **Premium** пользователям, или тем, кому просто повезло.
 
