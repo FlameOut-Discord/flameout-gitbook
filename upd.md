@@ -24,7 +24,7 @@ upd 28 Jan, 2023: Чуть позже будет добавлена информ
 4.  Теперь в справке по командам (**`f!help <команда без префикса>`**) написаны необходимые права для использования команд\
 
 
-    <figure><img src=".gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 5. Новая забавная и интересная команда: **`f!gay`**
 6. Новая РП команда: **`f!clap`** — хлопайте!
 
@@ -41,7 +41,7 @@ upd 28 Jan, 2023: Чуть позже будет добавлена информ
 1.  Обновили команду **`f!lyrics`**. Теперь отображается название альбома (если есть), язык на котором написан текст и ссылки на другие площадки — YouTube, SoundCloud, Spotify\*. Отныне картинка справа в embed будет в более высоком качестве. Вместе с этим, изменили систему поиска лирики, теперь FlameOut должен искать почти все песни\
 
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>*Spotify по-прежнему недоступен в Российской Федерации</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>*Spotify по-прежнему недоступен в Российской Федерации</p></figcaption></figure>
 2. Теперь в **`f!githubrepos`** показывается на 3 репозитория больше
 3. Кулдаун для Premium-пользователей на **`f!school`** снижен на 319,3 секунд
 4. Увеличено время ожидания активности до 5 минут в **`f!snake`**
@@ -55,7 +55,7 @@ upd 28 Jan, 2023: Чуть позже будет добавлена информ
 1.  Обновили обложку в группе ВКонтакте FlameOut\
 
 
-    <figure><img src=".gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## flameout@3.0.2 <a href="#3.0.2" id="3.0.2"></a>
 
@@ -91,7 +91,7 @@ upd 28 Jan, 2023: Чуть позже будет добавлена информ
 2.  Теперь при попытке воспользоваться несуществующей командой бот будет отправлять до пяти похожих на неё вариантов. Если бот не сможет найти - пользователю будет предложена команда **`f!help`** _(см. 2 скриншот)_.\
 
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. В **`f!short`** больше нельзя сокращать ссылки через сервис is.gd.
 4. Максимальное доступное количество символов для имени питомца теперь — 9, для пользователей с Premium — 12.
 5.  Встречайте - новый дизайн профиля! Старый, конечно же, доступен, достаточно в конце команды добавить **`-o`**.\

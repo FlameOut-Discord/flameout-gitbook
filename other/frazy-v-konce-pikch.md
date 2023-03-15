@@ -10,4 +10,4 @@
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>взято из песни «Bahroma — Пока-пора»</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>взято из песни «convulsive seizures (zxcursed) — во снах»</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>взято из песни «convulsive seizures (zxcursed) — во снах»</p></figcaption></figure>
