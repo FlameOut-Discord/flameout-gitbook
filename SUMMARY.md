@@ -32,3 +32,7 @@
 * [Калькулятор грабежа](https://clck.ru/guwyU)
 * [Изменить GitBook](https://clck.ru/guxs5)
 * [/r/flameout](https://reddit.com/r/flameout)
+
+## Документы <a href="#documents" id="documents"></a>
+
+* [Пользовательское соглашение](documents/polzovatelskoe-soglashenie.md)
