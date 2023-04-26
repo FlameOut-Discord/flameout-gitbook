@@ -28,7 +28,7 @@ description: Инструкция по правильному использов
 
 Чтобы убедится что он функционирует, можно воспользоваться командой **`f!ping`** (или любой другой). Ответ бота должен быть примерно таким:
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Если бот **не отвечает**, то возможно:
 
