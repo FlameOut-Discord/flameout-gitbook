@@ -6,7 +6,7 @@
 
 <figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>взято из песни «Nekoglai — Kolyan»</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>было опубликовано 1 сентября 2022 года</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (3).png" alt=""><figcaption><p>было опубликовано 1 сентября 2022 года</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>взято из песни «Bahroma — Пока-пора»</p></figcaption></figure>
 

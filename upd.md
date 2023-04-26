@@ -55,7 +55,7 @@ upd 28 Jan, 2023: Чуть позже будет добавлена информ
 1.  Обновили обложку в группе ВКонтакте FlameOut\
 
 
-    <figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## flameout@3.0.2 <a href="#3.0.2" id="3.0.2"></a>
 

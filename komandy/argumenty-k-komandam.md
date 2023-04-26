@@ -9,14 +9,14 @@
 {% hint style="warning" %}
 Указывать аргументы нужно без скобок и палочек, допустимо указание только в кавычках, например, если требуется указать несколько слов как один аргумент, но бот почему-то не принимает: "This is my perfect victory, that's right I win!".
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (3).png>)
 {% endhint %}
 
 {% hint style="info" %}
 У команд может быть несколько аргументов, и это необязательно может быть упоминание.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 На скриншоте виден пример использования выше упомянутой команды. **`@SV`** — это первый аргумент. Именно по нему бот определяет, чью аватарку стоит показать.
 

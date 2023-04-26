@@ -5,4 +5,4 @@
 Проголосовать за бота и получить подарки:\
 [https://top.gg/bot/747431086816100402/vote](https://top.gg/bot/747431086816100402/vote)
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>

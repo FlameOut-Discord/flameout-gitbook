@@ -55,7 +55,7 @@ description: >-
 {% tab title="шаг 1-ый — выбор сервера" %}
 Для начала требуется выбрать сервер, на который хотите добавить бота. Сделать это можно нажав на меню "выберите сервер" в пункте "добавить на сервер".
 
-![](<.gitbook/assets/image (17).png>)
+![](<.gitbook/assets/image (31).png>)
 {% endtab %}
 
 {% tab title="шаг 2-ой — права" %}
@@ -65,7 +65,7 @@ description: >-
 Для полноценной работы **FlameOut** требуется оставить все галочки при выборе прав, в том числе права на создание slash-команд (если имеется).
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="шаг 3-ий — настройки" %}
