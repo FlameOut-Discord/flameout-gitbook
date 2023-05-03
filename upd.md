@@ -27,10 +27,8 @@ upd 28 Jan, 2023: Чуть позже будет добавлена информ
     <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 5. Новая интересная команда: **`f!gay`**
 6. Новая РП команда: **`f!clap`** — хлопайте!
-7.  Теперь в справке по командам (**`f!help <command>`**) написаны необходимые права для использования команд\
 
 
-    <figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ### Исправления
 
