@@ -4,21 +4,4 @@ layout: editorial
 
 # Способы заработка монет
 
-| команда           | описание                      | premium              | необходимый уровень |
-| ----------------- | ----------------------------- | -------------------- | ------------------- |
-| f!gift            | Открыть подарок               | :x:                  | 0                   |
-| f!mgift           | Мега-открытие подарков        | :white\_check\_mark: | 0                   |
-| f!bankhack        | Взломать чей-то банк          | :white\_check\_mark: | 0                   |
-| f!fish (fishsell) | Ловля (и продажа) рыбы        | :x:                  | 5                   |
-| f!cube            | Кубик                         | :x:                  | 0                   |
-| f!snake           | Змейка                        | :x:                  | 0                   |
-| f!wood (woodsell) | Работа лесорубом              | :x:                  | 10                  |
-| f!janitor         | Работа дворником              | :x:                  | 0                   |
-| f!school          | Учение в школе                | :x:                  | 0                   |
-| f!mine (minesell) | Работа шахтёром               | :x:                  | 0                   |
-| f!rob             | Ограбить пользователя         | :x:                  | 15                  |
-| f!cointree        | Денежное дерево               | :white\_check\_mark: | 0                   |
-| f!openbox         | Открыть бокс                  | :x:                  | 0                   |
-| f!mopenbox        | Мега-открытие боксов          | :white\_check\_mark: | 0                   |
-| f!leafsell        | Продажа листиков (с дворника) | :x:                  | 0                   |
-| f!roulette        | Арабская рулетка              | :x:                  | 0                   |
+<table><thead><tr><th width="196">команда</th><th width="292.2197125256674">описание</th><th width="150">premium</th><th>необходимый уровень</th></tr></thead><tbody><tr><td>f!gift</td><td>Открыть подарок</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>0</td></tr><tr><td>f!mgift</td><td>Мега-открытие подарков</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td>0</td></tr><tr><td>f!bankhack</td><td>Взломать чей-то банк</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td>0</td></tr><tr><td>f!fish (fishsell)</td><td>Ловля (и продажа) рыбы</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>5</td></tr><tr><td>f!cube</td><td>Кубик</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>0</td></tr><tr><td>f!snake</td><td>Змейка</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>0</td></tr><tr><td>f!wood (woodsell)</td><td>Работа лесорубом</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>10</td></tr><tr><td>f!janitor</td><td>Работа дворником</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>0</td></tr><tr><td>f!school</td><td>Учение в школе</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>0</td></tr><tr><td>f!mine (minesell)</td><td>Работа шахтёром</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>0</td></tr><tr><td>f!rob</td><td>Ограбить пользователя</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>15</td></tr><tr><td>f!cointree</td><td>Денежное дерево</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td>0</td></tr><tr><td>f!openbox</td><td>Открыть бокс</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>0</td></tr><tr><td>f!mopenbox</td><td>Мега-открытие боксов</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td>0</td></tr><tr><td>f!leafsell</td><td>Продажа листиков (с дворника)</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>0</td></tr><tr><td>f!roulette</td><td>Арабская рулетка</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>0</td></tr></tbody></table>
