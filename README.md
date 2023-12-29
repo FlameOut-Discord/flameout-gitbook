@@ -55,7 +55,7 @@ description: >-
 {% tab title="шаг 1-ый — выбор сервера" %}
 Для начала требуется выбрать сервер, на который хотите добавить бота. Сделать это можно нажав на меню "выберите сервер" в пункте "добавить на сервер".
 
-![](<.gitbook/assets/image (31).png>)
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="шаг 2-ой — права" %}
