@@ -16,7 +16,7 @@
 У команд может быть несколько аргументов, и это необязательно может быть упоминание.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (3).png" alt="" width="282"><figcaption></figcaption></figure>
 
 На скриншоте виден пример использования выше упомянутой команды. **`@SV`** — это первый аргумент. Именно по нему бот определяет, чью аватарку стоит показать.
 
